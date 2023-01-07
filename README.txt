@@ -23,4 +23,4 @@ Credits:
 
 	DevOps:
 		WebTeam
-		site: www.webtime.tech
+		site: www.webteam.tech
