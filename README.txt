@@ -22,4 +22,5 @@ Credits:
 		Responsive Tools (github.com/ajlkn/responsive-tools)
 
 	DevOps:
-		Andreas Hulspas
+		WebTeam
+		site: www.webtime.tech
